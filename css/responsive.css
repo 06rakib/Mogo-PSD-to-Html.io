@@ -1,0 +1,562 @@
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { }
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .slider-text p {
+	font-size: 17px;
+}
+    .slider-text span::before {
+	top: 84%;
+}
+    .slider-img img {
+	padding: 30px;
+}
+    .soical-icon {
+	width: 75%;
+}
+    .story-overly p {
+	color: #ffffff;
+	font-size: 11px;
+}
+    .story-overly p {
+	color: #ffffff;
+	font-size: 11px;
+}
+    .story-social.work-soical a {
+	padding-bottom: 20px;
+}
+    .wrok-pic-test {
+	margin-top: -16px !important;
+}
+    .work-soical {
+	top: 50%;
+}
+    .space {
+	padding: 23px 0;
+}
+    .middle-text {
+	margin-top: -5px;
+}
+    
+}
+.navigation.sticky{
+/*    display: none;*/
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .navbar-nav .nav-item {
+	padding: 20px 0;
+	padding-left: 25px;
+	text-align: center;
+}
+    
+    .navbar-nav {
+	background: #bd7e7e;
+}
+    .banner-text h2 {
+	font-size: 60px;
+}
+    .banner-area h1 {
+	font-size: 100px;
+	
+}
+ .story-pic {
+	margin-bottom: 20px;
+}
+    .time .count {
+	font-size: 50px;
+	font-weight: 700;
+}
+   .time p {
+	font-size: 10px;
+	margin: 0 -7px;
+}
+    .slider-img img {
+	padding: 18px !important;
+	height: 100%;
+}
+    .slider-img {
+	margin-left: -90px;
+}
+    .slider-text {
+	margin-left: -97px;
+     padding-right: 20px;
+}
+.slider-text p {
+	font-size: 14px;
+	padding-right: 49px;
+}
+    .slider-text-sample span {
+	font-size: 13px;
+}
+  .slider-text span::before {
+	right: 103%;
+}
+    .soical-icon a {
+	font-size: 45px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+    .soical-icon {
+	width: 46%;
+}
+    .single-story {
+	margin-bottom: 0;
+}
+    .story-social {
+	width: 100%;
+}
+    .work-soical {
+	font-size: 12px;
+}
+    .work-soical a {
+	padding-bottom: 10px;
+}
+    .wrok-pic-test {
+	margin-top: -12px;
+}
+    .footer-text p {
+	font-size: 13px;
+    padding-bottom: 10px;
+}
+ .email {
+	padding: 13px 7px;
+	padding-right: 210px;
+}
+    .btn-pro{
+        top: 51%;
+    }
+ .btn-pro a {
+	padding: 15px 20px;
+	font-size: 15px;
+}
+  .middle-text {
+	margin-left: -25px;
+	padding-right: 16px;
+}
+ .middle-text p {
+	font-size: 13px;
+	margin-right: 0px;
+	margin-top: -4px;
+}
+.footer-blog {
+	padding-top: 40px;
+}
+.footer-img{
+    padding-top: 40px;
+}
+    .footer-right {
+	padding-top: 20px;
+}
+    .space {
+	padding: 20px 0;
+}
+    
+    
+}
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+      
+    
+    .navbar-nav .nav-item {
+	padding: 20px 0;
+	padding-left: 25px;
+	text-align: center;
+}
+    
+    .navbar-nav {
+	background: #bd7e7e;
+}
+    .no-margin {
+/*	margin: 0;*/
+}
+   .banner-text h2 {
+	font-size: 50px;
+}
+    .banner-area h1 {
+	font-size: 75px;
+	
+}
+ .story-pic {
+	margin-bottom: 20px;
+}
+ .time .count {
+	font-size: 42px;
+	font-weight: 700;
+}
+  .time p {
+	font-size: 9px;
+	margin: 0 -17px;
+}
+.slider-img img {
+	padding: 10px !important;
+}
+     .slider-img {
+	margin-left: 18px;
+}
+ .slider-text {
+	margin-left: -153px;
+	padding-left: 88px;
+     padding-right: 0;
+}
+.slider-text p {
+	font-size: 13px;
+	padding-right: 49px;
+}
+    .slider-text-sample {
+	padding-left: 60px;
+}
+    .slider-text-sample span {
+	font-size: 13px;
+}
+   .slider-text span::before {
+	top: 90%;
+	width: 45px;
+	right: 100%;
+}
+    #slider .no-margin{
+        margin: 0;
+    }
+  
+    .logo-text p {
+	font-size: 13px;
+	margin-right: -14px;
+}
+    .logo-text h3 {
+	font-size: 12px;
+}
+    .services-logo {
+	margin-left: -10px;
+}
+    .soical-icon a {
+	font-size: 45px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+    .soical-icon {
+	width: 62% !important;
+}
+    .single-story {
+	margin-bottom: 0;
+}
+    .story-social {
+	width: 100%;
+}
+ .work-soical {
+	font-size: 9px;
+}
+    .work-soical a {
+	padding-bottom: 10px;
+}
+    .wrok-pic-test {
+	margin-top: -12px;
+}
+    .footer-text p {
+	font-size: 13px;
+    padding-bottom: 10px;
+}
+ .email {
+	padding: 13px 7px;
+	padding-right: 180px;
+}
+    .btn-pro{
+        top: 50%;
+    }
+   .btn-pro a {
+	padding: 15px 20px;
+	font-size: 14px;
+}
+  .middle-text {
+	margin-left: -25px;
+	padding-right: 16px;
+}
+ .middle-text p {
+	font-size: 11px;
+	margin-right: 0px;
+     margin-top: -4px;
+} 
+   .footer-blog{
+        margin-left: -15px;
+}
+    .footer-blog {
+	padding-top: 40px;
+}
+.footer-img{
+    padding-top: 40px;
+    }
+   .space {
+	padding-bottom: 9px;
+}   
+    
+}
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+    .menu .logo {
+/*	padding-left: 30px !important;*/
+    margin-left: 30px;
+}
+    .navbar-nav .nav-item {
+	padding: 20px 0;
+	padding-left: 25px;
+	text-align: center;
+}
+    
+    .navbar-nav {
+	background: #bd7e7e;
+}
+    .no-margin {
+/*	margin: 0 !important;*/
+}
+ .banner-area h2 {
+	font-size: 28px;
+}
+ .banner-area h1 {
+	font-size: 45px;
+}
+ .story-pic {
+	margin-bottom: 20px;
+}
+    .story-img {
+	padding-bottom: 50px;
+}
+    .story-tell {
+	padding: 50px 0;
+}
+    .story-tell h2 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+    
+    .story-tell h1 {
+	font-size: 20px;
+	padding-bottom: 60px;
+}
+    .story-text p {
+	padding: 0px 20px;
+	font-size: 14px;
+}
+.time .count {
+	font-size: 26px;
+}
+  .time p {
+	font-size: 9px;
+	margin: 0 -17px;
+}
+ .slider-img img {
+	padding: 5px !important;
+}
+ .slider-img {
+	margin-left: 3px;
+}
+    .prev-arrow.slick-arrow {
+	display: none !important;
+}
+    .next-arrow.slick-arrow {
+	display: none !important;
+}
+  
+.slider-text {
+	padding-left: 188px;
+	margin-right: -92px !important;
+}
+.slider-text p {
+	font-size: 11px;
+	padding-right: 0px;
+	margin-right: -120px;
+}
+ .slider-text-sample {
+	padding-left: 44px;
+}
+  .slider-text-sample span {
+	font-size: 11px;
+}
+.slider-text span::before {
+	top: 90%;
+	width: 35px;
+	right: 58%;
+}
+    #slider .no-margin{
+        margin: 0;
+}
+    .team-text {
+	padding-top: 50px;
+}
+    .team-text h2 {
+	font-size: 30px;
+}
+    .team-text h1 {
+	font-size: 25px;
+	padding-top: 10px;
+}
+    .team-text p {
+	padding-top: 55px;
+	font-size: 14px;
+}
+    .team-img {
+	padding-top: 50px;
+}
+    .soical-icon a {
+	font-size: 25px !important;
+	width: 40px !important;
+	height: 40px !important;
+	line-height: 40px !important;
+}
+    .work-text {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    .work-text h2 {
+	font-size: 21px;
+}
+    .work-text h1 {
+	font-size: 22px;
+	padding-top: 6px;
+}
+    .work-text h1::before {
+	left: 39%;
+}
+    .work-text p {
+	padding-top: 65px;
+	font-size: 14px;
+}
+    .service-text {
+	padding: 60px 0;
+        
+}
+    .service-text h2 {
+	font-size: 30px;
+}
+.service-text h1 {
+	font-size: 25px;
+    margin-bottom: -20px;
+}
+    .service-text h1::before {
+	left: 42%;
+}
+    .logo-text {
+	margin-left: -50px;
+}
+  
+    .logo-text p {
+	font-size: 11px;
+	margin-right: -14px;
+}
+  .logo-text h3 {
+	font-size: 10px;
+}
+    .services-logo {
+	margin-left: -10px;
+}
+ .services-logo img {
+	width: 40%;
+	margin-left: -19px;
+}
+    .soical-icon a {
+	font-size: 45px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+}
+    .soical-icon {
+	width: 62% !important;
+}
+    .single-story {
+	margin-bottom: 0;
+}
+    .story-social {
+	width: 100%;
+}
+    .story-social img {
+	width: 70%;
+}
+ .work-soical {
+	font-size: 9px;
+}
+    .work-soical a {
+	padding-bottom: 10px;
+}
+    .wrok-pic-test {
+	margin-top: -12px;
+}
+    .footer-text p {
+	font-size: 13px;
+    padding-bottom: 10px;
+}
+ .email {
+	padding: 13px 7px;
+	padding-right: 90px;
+}
+   .btn-pro {
+	top: 50%;
+    left: 56%;
+}
+   .btn-pro a {
+	padding: 15px 20px;
+	font-size: 14px;
+}
+ .middle-text {
+	margin-left: -25px;
+	padding-right: 0px;
+	margin-bottom: -40px;
+}
+.middle-text p {
+	font-size: 9px;
+	margin-right: 0px;
+	margin-top: -4px;
+}
+.footer-blog {
+	padding-top: 40px;
+}
+    .footer-right {
+	padding-top: 40px;
+	margin-left: 0px;
+}
+.footer-img{
+    padding-top: 40px;
+}
+    .more {
+	padding-top: 4px;
+}
+    .more a {
+	font-size: 10px;
+}
+   .space {
+	padding-bottom: 9px;
+}
+    .footer-end-text p {
+	font-size: 11px;
+}
+    .back-to-top {
+	width: 33px;
+	height: 35px;
+	line-height: 25px;
+	font-size: 25px;
+}
+    .back {
+	padding: 3px 6px;
+}
+}
+
+
+
+
+
+
+
+
+
+
